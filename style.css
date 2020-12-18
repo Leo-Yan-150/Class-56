@@ -1,0 +1,22 @@
+body{
+text-align: center;
+background:navy;
+}
+#heading{
+color:yellow;
+border-style:dashed;
+border-color:white;
+}
+#subtitle{
+color:lightyellow;
+}
+#text{
+color:lightgoldenrodyellow;
+}
+#image{
+height:300px;
+}
+#button{
+width:100px;
+height:60px;
+}
